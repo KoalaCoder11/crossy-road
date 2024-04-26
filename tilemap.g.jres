@@ -1,0 +1,47 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA2MDgwNzExMTIxMzE0MTUxNjE3MTgxOTFhMDYwODA3MDEwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDIwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGExMDA2MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA3MGYwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGExMDBmMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMDYwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDcwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGExMDBmMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMDYwODA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MDcwMTAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMjBmMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMGEwYTBhMDYwODA4MDgwODA4MDgwYjBjMDgwODA4MDgwODA4MDcwNDA5MDkwOTA5MDkwOTBkMGUwOTA5MDkwOTA5MDkwNTAxMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAyMjIyMjIyMDIyMDIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDAwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile6",
+            "sprites.skillmap.islandTile8",
+            "sprites.skillmap.islandTile7",
+            "sprites.skillmap.islandTile3",
+            "sprites.skillmap.islandTile5",
+            "sprites.skillmap.islandTile0",
+            "sprites.skillmap.islandTile2",
+            "sprites.skillmap.islandTile1",
+            "sprites.skillmap.islandTile4",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadTurn2",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadTurn4",
+            "sprites.vehicle.roadIntersection2",
+            "sprites.vehicle.roadIntersection4",
+            "sprites.builtin.crowd0",
+            "sprites.builtin.crowd1",
+            "sprites.builtin.crowd2",
+            "sprites.builtin.crowd3",
+            "sprites.builtin.crowd4",
+            "sprites.builtin.crowd5",
+            "sprites.builtin.crowd6",
+            "sprites.builtin.crowd7",
+            "sprites.builtin.crowd8",
+            "sprites.builtin.crowd9"
+        ],
+        "displayName": "crossy_road"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
