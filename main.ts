@@ -27,7 +27,7 @@ function determineDifficulty () {
     game.splash("Level 1: Easy")
     game.splash("Level 2: Medium")
     game.splash("Level 3: Hard")
-    level = game.askForNumber("What level of gameplay do you want?")
+    level = game.askForNumber("What level of gameplay difficulty do you want?")
     return level
 }
 info.onCountdownEnd(function () {
@@ -46,7 +46,7 @@ function calculateLevel (level: number) {
     while (level != 1 && (level != 2 && level != 3)) {
         game.splash("Sorry, but \"" + level + "\" is not a valid game level!")
         game.splash("Please enter the number 1, 2, or 3...")
-        level = game.askForNumber("What level of gameplay do you want?")
+        level = game.askForNumber("What level of gameplay difficulty do you want?")
     }
     if (level == 1) {
         countdown = 15
